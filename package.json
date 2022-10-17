@@ -1,0 +1,23 @@
+{
+  "name": "nfi-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kervin Christianata",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "locutus": "^2.0.16",
+    "mysql2": "^2.3.3",
+    "randbytes": "^0.0.1",
+    "sequelize": "^6.25.1"
+  }
+}
